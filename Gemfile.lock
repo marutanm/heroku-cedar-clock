@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    clockwork (0.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  clockwork (~> 0.2.3)

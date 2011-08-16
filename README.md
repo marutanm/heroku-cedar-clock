@@ -9,5 +9,6 @@ $ foreman start
 $ heroku create --stack cedar
 $ git push heroku master
 $ heroku scale web=0 clock=1
+$ heroku ps
 $ heroku logs --tail
 ```
